@@ -1,5 +1,5 @@
 ### Hi, I'm Dirk Plagmeijer 👋
-#### Architect of BotDesk — The Web2.5 Discovery & Routing Layer for Agentic AI
+#### Architect of AgentBotDesk — The Web2.5 Discovery & Routing Layer for Agentic AI
 
 I build deterministic, platform-neutral Machine-to-Machine (M2M) infrastructure bridging traditional Web2 travel & mobility APIs with on-chain ENS routing, Zero-Knowledge compliance, and automated escrow settlement.
 
@@ -9,9 +9,9 @@ I build deterministic, platform-neutral Machine-to-Machine (M2M) infrastructure 
 ---
 
 ### 🚀 Core M2M & ENS Ecosystems
-* 🚕 **[Passenger Mobility (`mobility.agent.botdesk`)](https://github.com)** — 7-step deterministic M2M routing for autonomous Robotaxi rides and Rental fleets (`roboride.eth`, `carrental.eth`).
-* 🏨 **[Hotelroom Hospitality (`hotelroom.agent.botdesk`)](https://github.com)** — Agentic room discovery, binding rate quotes, ZKP guest verification, and deposit escrow (`hotelsearch.eth`, `roombooking.eth`).
-* 🚤 **[Canal Cruises & Tours (`canalcruise.agent.botdesk`)](https://github.com)** — Direct M2M availability, ticketing, and settlement for urban boat tours and private charters (`canalcruise.eth`, `boatticket.eth`).
+* 🚕 **[Passenger Mobility (`mobility.agent.botdesk`)](https://github.com)** — 7-step deterministic M2M routing for agentic Robotaxi rides and Rental fleets (`roboride.eth`, `carrental.eth`).
+* 🏨 **[Hotel Room Hospitality (`hotelroom.agent.botdesk`)](https://github.com)** — Agentic room discovery, binding rate quotes, ZKP guest verification, and deposit escrow (`hotelsearch.eth`, `roombooking.eth`).
+* 🚤 **[Canal Cruises (`canalcruise.agent.botdesk`)](https://github.com)** — Direct M2M availability, ticketing, and settlement for urban boat tours and private charters (`canalcruise.eth`, `boatticket.eth`).
 
 ---
 

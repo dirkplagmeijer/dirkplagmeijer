@@ -1,7 +1,8 @@
 ### Hi, I'm Dirk Plagmeijer 👋
 #### Architect of AgentBotDesk — The Web2.5 Discovery & Routing Layer for Agentic AI
 
-I build deterministic, platform-neutral Machine-to-Machine (M2M) infrastructure bridging traditional Web2 travel & mobility APIs with on-chain ENS routing, Zero-Knowledge compliance, and automated escrow settlement.
+I build the Web2.5 routing layer for Agentic AI. AgentBotDesk connects traditional travel and mobility APIs directly to autonomous AI agents via deterministic ENS endpoints and automated escrow.
+
 
 🌐 **Live Web2.5 & Google A2A Gateway:** [agentbotdesk.com](https://agentbotdesk.com)  
 📩 **Connect:** [LinkedIn](https://linkedin.com) | **`dirk@agentbotdesk.com`**

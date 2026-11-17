@@ -3,7 +3,6 @@
 
 I build the Web2.5 routing layer for Agentic AI. AgentBotDesk connects traditional travel and mobility APIs directly to autonomous AI agents via deterministic ENS endpoints and automated escrow.
 
-
 🌐 **Live Web2.5 & Google A2A Gateway:** [agentbotdesk.com](https://agentbotdesk.com)  
 📩 **Connect:** [LinkedIn](https://linkedin.com) | **`dirk@agentbotdesk.com`**
 
@@ -20,3 +19,8 @@ I build the Web2.5 routing layer for Agentic AI. AgentBotDesk connects tradition
 * **Google A2A & MCP Compatible:** Live discovery manifests (`/.well-known/agent-card.json`) and JSON-RPC 2.0 endpoints.
 * **350+ Standardized `.eth` Endpoints:** Deterministic 7-step lifecycle routing from discovery to dispute resolution.
 * **Open-Source Taxonomies & SDKs:** Available in Python and TypeScript with built-in Sandbox mode.
+
+---
+
+**Focus & Architecture Keywords:**  
+`AgentBotDesk` • `Agentic AI` • `Web2.5` • `Google A2A` • `Model Context Protocol (MCP)` • `M2M Routing` • `ENS Registry` • `Zero-Knowledge Proofs (ZKP)` • `Smart Escrow` • `Robotaxi API` • `Hotel Booking Protocol` • `Canal Cruise Ticketing`
